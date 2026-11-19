@@ -97,8 +97,8 @@ Requirements (Windows)
 ----------------------
 
 1.  Python 3.11. PyFlink 1.20 does not install on Python 3.12 or 3.13.
-2.  A project folder with no spaces in its path, for example C:\\flink\\practical7. PyFlink on
-    Windows cannot start its Python workers from a path with spaces.
+2.  A project folder with no spaces in its path, for example C:\flink\practical7. PyFlink on Windows
+    cannot start its Python workers from a path with spaces.
 3.  Java JDK 17
 4.  PyFlink (apache-flink 1.20.3)
 5.  VS Code
